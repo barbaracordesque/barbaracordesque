@@ -1,4 +1,4 @@
-### Olá. Bem vindo (a) ao meu portfólio 👋
+### Olá. Bem vindo(a) ao meu portfólio 👋
 
 - 🔭 Trabalho com teste e qualidade de software
 - 🌱 Estudando fundamentos, tipos e técnicas de teste de software. 
