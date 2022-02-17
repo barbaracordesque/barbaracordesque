@@ -7,6 +7,6 @@
 
 <div>
   <a href="https://github.com/barbaracordesque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaracordesque&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordesque&layout=compact&langs_count=7&theme=onedark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barbaracordesque&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordesque&layout=compact&langs_count=7&theme=onedark"/>
 </div>
