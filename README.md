@@ -1,9 +1,9 @@
 ### Olá. Bem vindo(a) ao meu portfólio 👋
 
-- 🔭 Trabalho com teste e qualidade de software
-- 🌱 Estudando fundamentos, tipos e técnicas de teste de software. 
+- 🔭 Trabalho com teste e qualidade de software;
+- 🌱 Estudo sobre teste de software, automação de teste e desenvolvimento front-end;
 - 📫 Conta-te me: barbara_cordesque@hotmail.com
-- 😄 Pronomes: ela/ dela
+- 😄 Pronomes: ela/ dela.
 
 <div>
   <a href="https://github.com/barbaracordesque">
