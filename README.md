@@ -7,5 +7,5 @@
 
 <div>
   <a href="https://github.com/barbaracordesque">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordesque&layout=compact&langs_count=7&theme=onedark"/>
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracordesque&layout=compact&langs_count=7&theme=onedark"/>
 </div>
