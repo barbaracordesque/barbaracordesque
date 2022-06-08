@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com teste e qualidade de software
 - 🌱 Estudando fundamentos, tipos e técnicas de teste de software. 
-- 📫 Conta-te me nos canais: https://www.linkedin.com/in/barbaracordesque/ ou barbara_cordesque@hotmail.com
+- 📫 Conta-te me: barbara_cordesque@hotmail.com
 - 😄 Pronomes: ela/ dela
 
 <div>
